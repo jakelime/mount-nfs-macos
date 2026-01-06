@@ -19,7 +19,7 @@ instructions :)
    - Allow users to access mounted subfolders
    - Note down mount path `/volume1/homes/`
 
-1. Termminal
+1. Terminal
 
    1. `sudo mount -t nfs -o resvport,rw [NAS-IP-Address]:/[Mount-Path] ~/Desktop/NAS_NFS`
 
